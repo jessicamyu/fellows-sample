@@ -4,5 +4,7 @@ WiCS Fellows Sample Repository
 
 hi
 bye
+
+amy guan
 ellie
 nadin tamer
